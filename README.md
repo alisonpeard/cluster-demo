@@ -1,6 +1,8 @@
-## Using the cluster -- logistic function
+# Cluster demo
 
-Use the logistic function as an example for using the cluster.
+Various example submission scripts and Python programs to try on the cluster.
+
+## Files
 
 env.yml: Specifies conda environment to run in.
     To create environment with micromamba:
