@@ -7,7 +7,7 @@ if __name__ == "__main__":
     xDomain, yDomain = np.linspace(-2,1.5,500), np.linspace(-2,2,500)
     bound = 2
     power = 2             # any positive floating point value
-    max_iterations = 50   # any positive integer value
+    max_iterations = 40   # any positive integer value
     colormap = 'magma'    # set to any matplotlib valid colormap
 
 

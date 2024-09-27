@@ -8,6 +8,4 @@
 #SBATCH --partition=Short
 #SBATCH --mail-type=END,FAIL
 
-echo "hello, world"
-hostname
-date
+micromamba run --name demo python mandelbrot.py
