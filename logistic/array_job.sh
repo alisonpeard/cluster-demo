@@ -1,6 +1,6 @@
-#! /bin/bash
+#! /bin/bash --login
 #SBATCH --nodes=1
-#SBATCH --ntasks-per-node=12
+#SBATCH --cpus-per-task=1
 #SBATCH --time=00:10:00
 #SBATCH --partition=Short
 #SBATCH --mail-type=END,FAIL
