@@ -1,3 +1,9 @@
+Metadata-Version: 2.1
+Name: mandelbrot
+Version: 0.0.1
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+
 # Cluster demo
 
 Various example submission scripts and Python programs to try on the cluster.

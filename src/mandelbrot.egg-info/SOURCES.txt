@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/mandelbrot/__init__.py
+src/mandelbrot.egg-info/PKG-INFO
+src/mandelbrot.egg-info/SOURCES.txt
+src/mandelbrot.egg-info/dependency_links.txt
+src/mandelbrot.egg-info/requires.txt
+src/mandelbrot.egg-info/top_level.txt
